@@ -1,0 +1,42 @@
+body{
+    background-color: aquamarine;
+    padding-top: 70px;
+    padding-bottom: 70px;
+
+}
+
+
+#img{
+   padding-top: 80px; 
+    
+}
+
+
+button{
+    width: 50px;
+    height: 30px;
+    background-color: black;
+    color: aliceblue;
+    font-size: 17px;
+    cursor: pointer;
+    
+    border-radius: 3px;
+}
+
+
+button:hover{
+    background-color: white;
+    color: black;
+    font-weight: bold;
+}
+
+
+
+#box{
+    width: 400px;
+    height: 500px;
+    background-color: rgb(164, 245, 218);
+    border-radius: 3px;
+    padding-bottom: 10px;
+
+}
